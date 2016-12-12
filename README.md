@@ -1,6 +1,8 @@
 # react-native-ListViewDemo
-期盼好久的简书ListViewDemo     
+a smiple RN ListViewDemo      
 
-npm install     
+Usage    
 
-react-native run-ios
+1.npm install    
+
+2.react-native run-ios
